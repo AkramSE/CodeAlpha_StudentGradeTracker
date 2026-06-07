@@ -1,4 +1,4 @@
-public class GradeStatistics {
+public class GradeStatistics { 
     public final double average;
     public final double highest;
     public final double lowest;
